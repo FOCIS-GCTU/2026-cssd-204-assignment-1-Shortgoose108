@@ -13,7 +13,6 @@
 
 
 def main():
-    pass #code goes here
     
     print()
     print("...PAA")
